@@ -1,0 +1,8 @@
+# Never commit real recruiter data or credentials
+*.csv
+!examples/*.csv
+.clasp.json
+.clasprc.json
+node_modules/
+.DS_Store
+*.pdf
